@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### A little about me:
 
 Backend-focused Software Engineer with ~4 years of professional experience, primarily in Java, with a little bit of front end JavaScript mixed in. 
